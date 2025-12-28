@@ -9,6 +9,6 @@ For the latest download links, installation guide, and full feature documentatio
 
 ---
 
-## 📄 License
+## License
 This software is Freeware.
 Copyright (c) 2025 WinDNS. All rights reserved.
